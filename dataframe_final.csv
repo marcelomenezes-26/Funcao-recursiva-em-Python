@@ -1,0 +1,6 @@
+id,descricao,parent_id
+238673,Administrativo,238672
+238674,Comercial,238672
+id,descricao,parent_id
+238675,Financeiro,238673
+238676,RH,238673

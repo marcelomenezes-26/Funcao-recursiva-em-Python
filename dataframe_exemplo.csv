@@ -1,0 +1,2 @@
+id;descricao;ativo;centros_custo_lucro_filhos
+238672;Filial 01;True;[{'id': 238673, 'descricao': 'Administrativo', 'parent_id': 238672, 'ativo': True, 'centros_custo_lucro_filhos': [{'id': 238675, 'descricao': 'Financeiro', 'parent_id': 238673, 'ativo': True, 'centros_custo_lucro_filhos': []}, {'id': 238676, 'descricao': 'RH', 'parent_id': 238673, 'ativo': True, 'centros_custo_lucro_filhos': []}]}, {'id': 238674, 'descricao': 'Comercial', 'parent_id': 238672, 'ativo': True, 'centros_custo_lucro_filhos': []}]
